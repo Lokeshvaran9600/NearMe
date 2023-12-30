@@ -243,16 +243,13 @@ available here and prices are reasonable
 
 ## OUTPUT
 
+![Alt text](<WhatsApp Image 2023-12-30 at 00.41.43_f8a5f7d8.jpg>)
+![Alt text](<WhatsApp Image 2023-12-30 at 00.41.43_2107037e.jpg>)
+![Alt text](<WhatsApp Image 2023-12-30 at 00.41.44_426d9692.jpg>)
+![Alt text](<WhatsApp Image 2023-12-30 at 00.41.49_3341ce1f.jpg>)
+![Alt text](<WhatsApp Image 2023-12-30 at 00.41.53_b41ae5aa.jpg>)
+![Alt text](<WhatsApp Image 2023-12-30 at 00.41.53_de8e62f9.jpg>)
 
-
-
-
-![Alt text](<WhatsApp Image 2023-12-30 at 00.41.43_64c163cd.jpg>)
- ![Alt text](<WhatsApp Image 2023-12-30 at 00.41.44_daca4595.jpg>) 
- ![Alt text](<WhatsApp Image 2023-12-30 at 00.41.44_f7a9a150.jpg>)
-  ![Alt text](<WhatsApp Image 2023-12-30 at 00.41.49_4c5492ef.jpg>) 
-  ![Alt text](<WhatsApp Image 2023-12-30 at 00.41.53_3ba7b09d.jpg>) 
-  ![Alt text](<WhatsApp Image 2023-12-30 at 00.41.53_9be19a2f.jpg>)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
